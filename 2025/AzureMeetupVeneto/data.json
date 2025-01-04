@@ -1,0 +1,35 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "lupan77",
+        ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Meetup Veneto",
+    "Country": "Italy",
+    "Url": "https://veneto.globalazure.it",
+    "SessionizeApiId": "clcjm6qa",
+    "SessionizeEventName": "Global Azure 2025 - Veneto",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/clcjm6qa/view/Sessions",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "Azure Meetup Veneto - Logo",
+      "File": "AZUGPT.png"
+    },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "Padova",
+        "StartDate": "2025-05-09",
+        "EndDate": "2025-05-09",
+        "Address": null,
+        "Latitude": 45.406435,
+        "Longitude": 11.876761
+      }
+    ]
+  }
+}
