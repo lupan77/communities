@@ -23,12 +23,12 @@
     },
     "Locations": [
       {
-        "Name": "Padova",
+        "Name": "Vicenza",
         "StartDate": "2025-05-09",
         "EndDate": "2025-05-09",
         "Address": null,
-        "Latitude": 45.406435,
-        "Longitude": 11.876761
+        "Latitude": 45.5413486,
+        "Longitude": 11.5382224
       }
     ]
   }
