@@ -12,7 +12,7 @@ The [Call for Speakers is open](https://sessionize.com/global-azure-veneto-2025)
 
 Resume information:
 * 📅 May, 9 2025
-* 🏠 TBD
+* 🏠 Vicenza
 * 🎫 TBD
 * 🎙️ Call for speakers - [https://sessionize.com/global-azure-veneto-2025](https://sessionize.com/global-azure-veneto-2025)
 * 💶 Sponsors - We are looking for sponsors. Reach out to the organization team at [https://www.linkedin.com/company/azuremeetupveneto](https://www.linkedin.com/company/azuremeetupveneto)
