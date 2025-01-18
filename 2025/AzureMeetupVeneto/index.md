@@ -12,10 +12,10 @@ The [Call for Speakers is open](https://sessionize.com/global-azure-veneto-2025)
 
 Resume information:
 * 📅 May, 9 2025
-* 🏠 Vicenza
-* 🎫 TBD
-* 🎙️ Call for speakers - [https://sessionize.com/global-azure-veneto-2025](https://sessionize.com/global-azure-veneto-2025)
-* 💶 Sponsors - We are looking for sponsors. Reach out to the organization team at [https://www.linkedin.com/company/azuremeetupveneto](https://www.linkedin.com/company/azuremeetupveneto)
+* 🏠 Elevator Innovation Hub - Viale A. Fusinato, 8 Vicenza
+* 🎫 [Tickets](https://www.eventbrite.it/e/biglietti-global-azure-2025-veneto-1207856694889)
+* 🎙️ [Call for speakers](https://sessionize.com/global-azure-veneto-2025)
+* 💶 Sponsors - We are looking for sponsors. Reach out to the organization team via [LinkedIn](https://www.linkedin.com/company/azuremeetupveneto)
 
 If you have any questions, feedback or thoughts, please reach out to the community organizers at:
-* https://www.linkedin.com/company/azuremeetupveneto
+* veneto@azuremeetup.it
