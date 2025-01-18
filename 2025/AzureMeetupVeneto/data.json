@@ -23,10 +23,10 @@
     },
     "Locations": [
       {
-        "Name": "Vicenza",
+        "Name": "Elevator Innovation Hub",
         "StartDate": "2025-05-09",
         "EndDate": "2025-05-09",
-        "Address": null,
+        "Address": "Viale A. Fusinato, 8 Vicenza",
         "Latitude": 45.5413486,
         "Longitude": 11.5382224
       }
